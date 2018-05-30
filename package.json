@@ -72,9 +72,6 @@
     "mocha": "~2.1.0",
     "snyk": "^1.18.0"
   },
-  "optionalDependencies": {
-    "win-ca-ffi": "github:jfromaniello/win-ca#support-other-stores"
-  },
   "engines": {
     "node": "^8"
   }
